@@ -4,7 +4,7 @@ Here we include a repository of functions and scripts which detail the foundatio
 
 Ver 1.0
 
-A notebook containing the fundamentals of datastructures in python and pandas. What you can and can't do with them. Other thigns. 
+A notebook containing the fundamentals of datastructures in python and pandas. What you can and can't do with them. Other things. 
 
 A notebook coding the fundamental solutions to basic numerical stochastic differential equations
 

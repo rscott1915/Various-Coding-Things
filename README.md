@@ -12,3 +12,7 @@ To do:
 - numerical options pricing with Black-Scholes
 - Principle Component Analysis and basics of optimizing portfolios
 - Basic principles of ML
+
+Ver 1.1 
+
+Option pricing numerically and analytically with Black-Scholes done
